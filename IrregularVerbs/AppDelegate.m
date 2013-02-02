@@ -37,7 +37,7 @@
                                                            [UIColor whiteColor], UITextAttributeTextColor,
                                                            [UIColor colorWithWhite:0.000 alpha:0.090], UITextAttributeTextShadowColor,
                                                            [NSValue valueWithUIOffset:UIOffsetMake(0, 1)], UITextAttributeTextShadowOffset,
-                                                           [UIFont fontWithName:@"Signika" size:0.0], UITextAttributeFont,
+                                                           [UIFont fontWithName:@"Signika" size:22.0], UITextAttributeFont,
                                                            nil]];
     
     [[UIBarButtonItem appearance] setTitleTextAttributes:[NSDictionary dictionaryWithObjectsAndKeys:

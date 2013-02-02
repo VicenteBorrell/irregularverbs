@@ -47,7 +47,7 @@
 "mostcommon" = "Most Common";
 "leastcommon"="Least Common";
 "mostfailed" = "Most Failed";
-"randomchose"= "Randomly Chose";
+"randomchose"= "Randomly Chosen";
 "leasttested"="Least Tested";
 "byhintgroup" = "By Hint Group";
 
